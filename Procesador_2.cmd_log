@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/joanc/Desktop/Procesador_1/Procesador_1/Procesador_2.xst" -ofn "C:/Users/joanc/Desktop/Procesador_1/Procesador_1/Procesador_2.syr" 
+xst -intstyle ise -ifn "C:/Users/joanc/Desktop/Procesador_1/Procesador_1/Procesador_2.xst" -ofn "C:/Users/joanc/Desktop/Procesador_1/Procesador_1/Procesador_2.syr" 

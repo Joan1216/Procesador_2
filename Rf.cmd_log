@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/joanc/Desktop/Procesador_1/Procesador_1/Rf.xst" -ofn "C:/Users/joanc/Desktop/Procesador_1/Procesador_1/Rf.syr" 
+vhdtdtfi -prj Procesador_1 -o C:/Users/joanc/Desktop/Procesador_1/Procesador_1/Rf.vhi -module Rf -template D:/Procesador/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Rf.vhd 

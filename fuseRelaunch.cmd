@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/joanc/Desktop/Procesador_1/Procesador_1/Tb_MUX_isim_beh.exe" -prj "C:/Users/joanc/Desktop/Procesador_1/Procesador_1/Tb_MUX_beh.prj" "work.Tb_MUX" 
